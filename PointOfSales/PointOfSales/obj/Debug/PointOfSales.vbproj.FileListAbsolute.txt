@@ -1,0 +1,24 @@
+D:\Documents\Tugas\Pemrograman Dasar\VB. NET\PointOfSales\PointOfSales\bin\Debug\PointOfSales.exe.config
+D:\Documents\Tugas\Pemrograman Dasar\VB. NET\PointOfSales\PointOfSales\bin\Debug\PointOfSales.exe
+D:\Documents\Tugas\Pemrograman Dasar\VB. NET\PointOfSales\PointOfSales\bin\Debug\PointOfSales.pdb
+D:\Documents\Tugas\Pemrograman Dasar\VB. NET\PointOfSales\PointOfSales\bin\Debug\PointOfSales.xml
+D:\Documents\Tugas\Pemrograman Dasar\VB. NET\PointOfSales\PointOfSales\obj\Debug\PointOfSales.vbprojAssemblyReference.cache
+D:\Documents\Tugas\Pemrograman Dasar\VB. NET\PointOfSales\PointOfSales\obj\Debug\PointOfSales.Form1.resources
+D:\Documents\Tugas\Pemrograman Dasar\VB. NET\PointOfSales\PointOfSales\obj\Debug\PointOfSales.Resources.resources
+D:\Documents\Tugas\Pemrograman Dasar\VB. NET\PointOfSales\PointOfSales\obj\Debug\PointOfSales.vbproj.GenerateResource.cache
+D:\Documents\Tugas\Pemrograman Dasar\VB. NET\PointOfSales\PointOfSales\obj\Debug\PointOfSales.vbproj.CoreCompileInputs.cache
+D:\Documents\Tugas\Pemrograman Dasar\VB. NET\PointOfSales\PointOfSales\obj\Debug\PointOfSales.exe
+D:\Documents\Tugas\Pemrograman Dasar\VB. NET\PointOfSales\PointOfSales\obj\Debug\PointOfSales.xml
+D:\Documents\Tugas\Pemrograman Dasar\VB. NET\PointOfSales\PointOfSales\obj\Debug\PointOfSales.pdb
+E:\Sekolah\Projects\Point of Sales Pak JM\PointOfSales\PointOfSales\bin\Debug\PointOfSales.exe.config
+E:\Sekolah\Projects\Point of Sales Pak JM\PointOfSales\PointOfSales\bin\Debug\PointOfSales.exe
+E:\Sekolah\Projects\Point of Sales Pak JM\PointOfSales\PointOfSales\bin\Debug\PointOfSales.pdb
+E:\Sekolah\Projects\Point of Sales Pak JM\PointOfSales\PointOfSales\bin\Debug\PointOfSales.xml
+E:\Sekolah\Projects\Point of Sales Pak JM\PointOfSales\PointOfSales\obj\Debug\PointOfSales.vbprojAssemblyReference.cache
+E:\Sekolah\Projects\Point of Sales Pak JM\PointOfSales\PointOfSales\obj\Debug\PointOfSales.Form1.resources
+E:\Sekolah\Projects\Point of Sales Pak JM\PointOfSales\PointOfSales\obj\Debug\PointOfSales.Resources.resources
+E:\Sekolah\Projects\Point of Sales Pak JM\PointOfSales\PointOfSales\obj\Debug\PointOfSales.vbproj.GenerateResource.cache
+E:\Sekolah\Projects\Point of Sales Pak JM\PointOfSales\PointOfSales\obj\Debug\PointOfSales.vbproj.CoreCompileInputs.cache
+E:\Sekolah\Projects\Point of Sales Pak JM\PointOfSales\PointOfSales\obj\Debug\PointOfSales.exe
+E:\Sekolah\Projects\Point of Sales Pak JM\PointOfSales\PointOfSales\obj\Debug\PointOfSales.xml
+E:\Sekolah\Projects\Point of Sales Pak JM\PointOfSales\PointOfSales\obj\Debug\PointOfSales.pdb
